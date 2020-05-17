@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Shadows+Into+Light&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Neucha&family=Shadows+Into+Light&display=swap'
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Neucha&family=Shadows+Into+Light&display=swap');
 h1 {
   font-family: 'Dancing Script', cursive;
   font-size: 80px;
 }
 
 p {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script', 'Neucha', cursive;
   color: blue;
   font-size: 40px;
 
