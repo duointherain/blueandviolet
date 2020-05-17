@@ -4,16 +4,17 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Neucha&family=Shadows+Into+Light&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Neucha&family=Shadows+Into+Light&display=swap');
 
 h1 {
   font-family: 'Dancing Script', cursive;
   font-size: 120px;
   text-align: center;
-   color: blue;
+  color: blue;
 }
 
 p {
-  font-family: 'Dancing Script', serif;
+  font-family: 'Neucha', cursive;
   color: blue;
   font-size: 40px;
 
