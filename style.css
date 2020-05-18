@@ -9,14 +9,14 @@
 
 
 h1 {
-  font-family: 'Dancing Script', serif;
+  font-family: 'Dancing Script', cursive;
   font-size: 120px;
   text-align: center;
   color: red;
 }
 
 p {
-  font-family: 'Neucha', cursive;
+  font-family: 'Neucha', serif;
   color: blue;
   font-size: 40px;
 
